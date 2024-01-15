@@ -1,1 +1,2 @@
 # IOT-Based-Attendance-System-Using-NodeMcu-and-RFID
+This project implements an attendance system using Radio-Frequency Identification (RFID) technology and NodeMCU. Each person is assigned an RFID tag. When a tag is scanned by the NodeMCU, the system verifies its correctness and triggers a buzzer. Simultaneously, the attendence is marked along with name, current date and time. This data is updated on a Google Sheet, providing an automated and efficient way to track attendance in real-time
